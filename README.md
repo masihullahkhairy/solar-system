@@ -31,7 +31,7 @@ An interactive, animated visualization of our Solar System built with **React**,
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/solar-system-explorer.git
+git clone https://github.com/masihullahkhairy/solar-system-explorer.git
 cd solar-system-explorer
 
 # Install dependencies
